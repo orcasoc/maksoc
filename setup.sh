@@ -42,7 +42,7 @@ while true; do
         sudo docker compose up -d
         ;;
     5)
-        cd iris-web
+        cd iris
         sudo docker compose build
         sudo docker compose up -d
         ;;
