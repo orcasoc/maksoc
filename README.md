@@ -1,7 +1,7 @@
 # MakSoc
 
 ## Overview
-MakSoc is an innovative security operations center (SOC) solution that leverages the strength of leading open-source tools to provide robust protection for your digital assets. Our integrated approach ensures comprehensive defense against a wide range of cyber threats, making your systems and data more secure than ever before. Join us in the fight against cybercrime with MakSoc.
+MakSoc is an innovative security operations center (SOC) solution that leverages the strength of leading open-source tools to provide robust protection for your digital assets. 
 
 
 
@@ -26,6 +26,6 @@ MakSoc is an innovative security operations center (SOC) solution that leverages
 | DFIR-IRIS | GNU Lesser General Public License v3.0 |
 | MISP | GNU Affero General Public License v3.0 | 
 
-## Acknowledgments
+
 
 
